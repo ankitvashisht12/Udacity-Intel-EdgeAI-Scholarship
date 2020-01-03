@@ -1,4 +1,4 @@
-# Intel Edge AI Scholarship
+# Intel Edge AI Scholarship Challenge
 
 ![](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/Udacity_intel_scholarship.png)
 
