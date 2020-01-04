@@ -47,3 +47,18 @@
 
 
 ![Completed L2](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/L2_completed.png)
+
+### L3 : The Model Optimizer
+
+:heavy_check_mark: Studied about:
+
+- Model Optimizer and it's working
+- Configuration of model optimizer
+- Optimization techniques:
+  - Quantization
+  - Freezing
+  - Fusion
+- Supported Frameworks in OpenVINO Toolkit
+- Intermediate Representation (IR)
+
+![L3_Lesson_6](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/L3_Lesson_6.png)
