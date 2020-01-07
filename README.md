@@ -62,3 +62,29 @@
 - Intermediate Representation (IR)
 
 ![L3_Lesson_6](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/L3_Lesson_6.png)
+
+:heavy_check_mark: Studied about:
+
+- Converting TF models from object detection zoo into IR using model optimizer
+- Converting Caffe Model into IR using model optimizer
+- Converting ONNX model into IR using model optimizer
+- Cutting part of Model
+- Supported and Custom Layer
+
+![](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/L3_Completed.png)
+
+### L4: The Inference Engine
+
+:heavy_check_mark: Studied about:
+
+- Inference Engine (IE)
+- Supported Hardware devices for IE
+  - CPU
+  - GPU
+  - FPGA
+  - VPU
+- Importing Inference Engine 
+
+![](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/L4_The_Inference_Engine.png)
+
+Completed 29% of **The Inference Engine**
