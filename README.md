@@ -88,3 +88,16 @@
 ![](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/L4_The_Inference_Engine.png)
 
 Completed 29% of **The Inference Engine**
+
+
+:heavy_check_mark: Studied about:
+
+- loading IR into the Inference Engine
+- Sending Inference Request to IE
+- Synchronous and Asynchronous Request
+- Handling Output Result
+- **Integration Into Edge APP**
+
+![](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/L4_Passed_all_test.png)
+
+![](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/L4_Completed.png)
