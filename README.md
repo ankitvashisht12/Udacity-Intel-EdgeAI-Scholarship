@@ -101,3 +101,21 @@ Completed 29% of **The Inference Engine**
 ![](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/L4_Passed_all_test.png)
 
 ![](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/L4_Completed.png)
+
+### L5: Deploying an Edge application
+
+:heavy_check_mark: Studied about:
+
+- Basics of openCV
+- Handling input Streams in OpenCV
+- Processing Model Output for additional Useful Info
+- Basics of MQTT and it's use with IoT
+- Sending Stats and Video Streams to server
+
+![](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/L5_Ex01_result.png)
+
+![](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/L5_Ex02.png)
+
+![](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/L5_Ex02_result.png)
+
+**Completed *75%* of L5**
