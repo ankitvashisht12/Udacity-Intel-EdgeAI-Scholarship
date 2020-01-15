@@ -63,6 +63,8 @@
 
 ![L3_Lesson_6](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/L3_Lesson_6.png)
 
+![Completed Bingo](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/BINGO.png)
+
 :heavy_check_mark: Studied about:
 
 - Converting TF models from object detection zoo into IR using model optimizer
@@ -119,3 +121,20 @@ Completed 29% of **The Inference Engine**
 ![](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/L5_Ex02_result.png)
 
 **Completed *75%* of L5**
+
+:heavy_check_mark: Studied about:
+
+- Analyzing Performance Basics
+- Model Use Case
+- Concerning End User Needs
+
+![L5 Completed](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/L5_Completed.png)
+
+![ALL_Sections_Completed](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/Core_curriculum_Completed.png)
+
+![](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/Course_completed.png)
+
+![](https://github.com/ankitvashisht12/Udacity-Intel-EdgeAI-Scholarship/blob/master/Images/Certificate_Intel_Edge_AI.jpg)
+
+**Course Completion Certificate**
+
