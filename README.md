@@ -19,5 +19,11 @@
 
 :heavy_check_mark: Installed [Intel OpenVino toolkit](https://docs.openvinotoolkit.org/latest/index.html) locally on my machine.
 
+### Day 3/30 (17 Jan, 2020):
+
+:heavy_check_mark: Completed till L2.V11 : Preprocessing Inputs
+
+:heavy_check_mark: Read an article about Various types of Computer Vision models
+
 
 
