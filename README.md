@@ -25,5 +25,14 @@
 
 :heavy_check_mark: Read an article about Various types of Computer Vision models
 
+### Day 4/30 (18 Jan, 2020):
+
+:heavy_check_mark: Completed L2 : Preprocessing Inputs
+
+:heavy_check_mark: Read [Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab).
+
+:heavy_check_mark: Read [Going beyond the bounding box with semantic segmantation](https://thegradient.pub/semantic-segmentation/) article.
+
+
 
 
