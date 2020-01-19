@@ -33,6 +33,16 @@
 
 :heavy_check_mark: Read [Going beyond the bounding box with semantic segmantation](https://thegradient.pub/semantic-segmentation/) article.
 
+### Day 5/30 (19 Jan, 2020):
+
+:heavy_check_mark: Completed till L3.V6 
+
+:heavy_check_mark: Studied about [Quantization](https://nervanasystems.github.io/distiller/quantization.html) Optimization technique
+
+:heavy_check_mark: Read about [Kaldi deep learning framework](https://kaldi-asr.org/doc/dnn.html).
+
+:heavy_check_mark: Read about [ONNX Framework](https://onnx.ai/)
+
 
 
 
