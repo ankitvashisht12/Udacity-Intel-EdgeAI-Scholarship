@@ -43,6 +43,18 @@
 
 :heavy_check_mark: Read about [ONNX Framework](https://onnx.ai/)
 
+### Day 6/30 (20 Jan, 2020):
+
+:heavy_check_mark: Installing openVino toolkit in windows 10.
+
+### Day 7/30 (21 Jan, 2020):
+
+:heavy_check_mark: Completed L3 : The model optimizer.
+
+:heavy_check_mark: Converted Tensorflow* model, Caffe model and ONNX model into IR.
+
+:heavy_check_mark: Studied about cutting parts of model, supported layers and custom layers.
+
 
 
 
