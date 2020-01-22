@@ -56,5 +56,11 @@
 :heavy_check_mark: Studied about cutting parts of model, supported layers and custom layers.
 
 
+### Day 8/30 (22 Jan, 2020):
+
+:heavy_check_mark: completed till L4.V4
+
+:heavy_check_mark: Recalled L1, L2 and L3 material.
+
 
 
