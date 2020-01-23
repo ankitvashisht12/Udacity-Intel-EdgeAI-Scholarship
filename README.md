@@ -62,5 +62,9 @@
 
 :heavy_check_mark: Recalled L1, L2 and L3 material.
 
+### Day 9/30 (23 Jan, 2020):
+
+:heavy_check_mark: Completed Exercise: Feed an IR to the Inference Engine
+
 
 
