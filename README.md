@@ -66,5 +66,7 @@
 
 :heavy_check_mark: Completed Exercise: Feed an IR to the Inference Engine
 
+### Day 10/30 (24 Jan, 2020):
 
+:heavy_check_mark: Read this [article](https://towardsdatascience.com/converting-a-simple-deep-learning-model-from-pytorch-to-tensorflow-b6b353351f5d) about converting pytorch models in tf
 
