@@ -70,3 +70,6 @@
 
 :heavy_check_mark: Read this [article](https://towardsdatascience.com/converting-a-simple-deep-learning-model-from-pytorch-to-tensorflow-b6b353351f5d) about converting pytorch models in tf
 
+### Day 11/30 (25 Jan, 2020):
+
+:heavy_check_mark: Read [tflite convert docs](https://www.tensorflow.org/lite/convert)
